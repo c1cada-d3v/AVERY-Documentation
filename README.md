@@ -5,5 +5,5 @@ This project began in the summer of 2021 when I was about sixteen years old. Ave
 
 Avery takes inspiration from 1979-era Chuck E. Cheese cyberamic animatronics, the Rock-A-Fire Explosion, and Steve Koci's book "The Ultimate Guide To Do It Yourself Animatronics". 
 
-This page is just an old project breakdown and includes more complex documentation on the technologies I used to make this project. Thank you!
+This page is just an old project breakdown and includes more detailed documentation on the technologies I used to make this project. Thank you!
 
