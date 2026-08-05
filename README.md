@@ -5,7 +5,6 @@ He takes inspiration from 1979-era Chuck E. Cheese cyberamic animatronics, the R
 
 This project began in the summer of 2021 when I was about sixteen years old. Avery was not intended to be my high school senior engineering project, but I adopted him as such after his prototype was built.
 
-His final version was "finished" in Spring of 2023 in time for the project presentation.
+It took roughly two years to complete him working on and off during the school year, and there is so much I wish I could have gone back and added. His final version was "finished" in Spring of 2023 in time for my presentation.
 
-This page is an old project breakdown and includes more detailed documentation on the technologies I used to make this project. Thank you!
-
+Consider this page is an old project breakdown and includes more detailed documentation on the technologies I used to make him. Thank you.
