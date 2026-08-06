@@ -3,7 +3,7 @@ Avery is a humanoid animatronic designed to sing and gesture to an audience. He 
 
 He takes inspiration from 1979-era Chuck E. Cheese cyberamic animatronics, the Rock-A-Fire Explosion, and Steve Koci's book "The Ultimate Guide To Do It Yourself Animatronics". 
 
-This project began in the summer of 2021 when I was about sixteen years old. Avery was not intended to be my high school senior engineering project, but I adopted him as such after his prototype was built.
+This project began when I was about sixteen years old. Avery was not intended to be my high school senior engineering project, but I adopted him as such after his prototype was built.
 
 It took roughly two years to complete him working on and off during the school year, and there is so much I wish I could have gone back and added. His final version was "finished" in Spring of 2023 in time for my presentation.
 
