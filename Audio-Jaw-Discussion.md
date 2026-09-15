@@ -1,5 +1,5 @@
 # Avery's Jaw Movement, Audio, & Making an Animatronic Sing
-I love animatronics because it is an interdisciplinary subject. Audio naturally comes with it. 
+Animatronics is an interdisciplinary subject. Audio naturally comes with it. 
 During Avery's prototype stage, I tested his servos with an Arduino Uno and simple servo sweep commands.
 
 The first step I had identified in getting Avery to sing was simply getting his jaw to swing in accordance with audio/sound levels using the Arduino platform. At the time, I believe I only had a headphone audio jack connected to my computer, along with  one stereo channel led to a speaker, and the other led to my breadboard setup. I was unable to get a strong enough audio signal this way, and realized I needed an amplifier if I wanted to make this option work. 
@@ -14,6 +14,6 @@ I ultimately landed on the Scary Terry Audio Servo Driver boards (https://www.co
 
 More on the voltage trigger section: one of Avery's buttons is a poorly-disguised motion sensor. Although I don't use it regularly, it is wired and has been tested before. It was installed a little too last-minute before my presentation, and is in a hard to reach spot so it is a bit sensitive. 
 
-The best look at how all this came together in the end is in Avery's electronic diagrams.
+The best look at how all this came together in the end is in Avery's electronic diagrams that I will upload soon.
 
 
